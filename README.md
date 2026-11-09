@@ -4,9 +4,11 @@
 
 A source-attributed collection of GPT Image 2.6 prompts and matching media, curated by [BeatAPI](https://beatapi.io).
 
-**[GPT Image 2.6 API](https://beatapi.io/gpt-image-2-6-api)** · **[中文说明](README.zh-CN.md)** · **[Contribute a prompt](CONTRIBUTING.md)**
+**[Browse the prompt gallery](https://beatapi.io/gpt-image-2-6-prompts)** · **[GPT Image 2.6 API](https://beatapi.io/gpt-image-2-6-api)** · **[中文说明](README.zh-CN.md)** · **[Contribute a prompt](CONTRIBUTING.md)**
 
 **116 source-attributed prompt and media cases.**
+
+**Browse by use case:** [Official examples](#official-examples) · [Stickers & reactions](#stickers--reactions) · [Flash cuts & branding](#flash-cuts--branding) · [Ambient loops](#ambient-loops) · [Pixel art & UI motion](#pixel-art--ui-motion)
 
 ## Featured examples
 
@@ -28,7 +30,7 @@ No extra text, no watermarks, no unrelated logos.
 
 </details>
 
-**Creator:** [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting) · [Case and attribution](cases/openai-campaign.md)
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting) · [Case and attribution](cases/openai-campaign.md)
 
 ---
 
@@ -47,7 +49,7 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 </details>
 
-**Creator:** [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Case and attribution](cases/ailingqu-cat-waving-hello.md)
+[ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Case and attribution](cases/ailingqu-cat-waving-hello.md)
 
 ---
 
@@ -64,7 +66,7 @@ A cinemagraph of a quiet street café terrace in the morning: everything is perf
 
 </details>
 
-**Creator:** [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Case and attribution](cases/ailingqu-cafe-cinemagraph.md)
+[ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [Case and attribution](cases/ailingqu-cafe-cinemagraph.md)
 
 ---
 
@@ -81,7 +83,7 @@ A frosted glass skincare bottle standing still on a beige stone plinth while a s
 
 </details>
 
-**Creator:** [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/README.md) · [Case and attribution](cases/ailingqu-product-light-sweep.md)
+[ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/README.md) · [Case and attribution](cases/ailingqu-product-light-sweep.md)
 
 ---
 
@@ -98,7 +100,7 @@ A layered paper-cut lantern scene of a southern Chinese water town with a stone 
 
 </details>
 
-**Creator:** [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/README.md) · [Case and attribution](cases/ailingqu-lantern-koi-garden.md)
+[ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/README.md) · [Case and attribution](cases/ailingqu-lantern-koi-garden.md)
 
 ---
 
@@ -115,140 +117,140 @@ A pixel art hero with spiky red hair swinging a sword in a wide arc, leaving a b
 
 </details>
 
-**Creator:** [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/README.md) · [Case and attribution](cases/ailingqu-pixel-hero-slash.md)
+[ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/README.md) · [Case and attribution](cases/ailingqu-pixel-hero-slash.md)
 
 ---
 
 ## Official examples
 
-- [Youth streetwear campaign](cases/openai-campaign.md) — OpenAI
-- [Transparent product cutout](cases/openai-cutout.md) — OpenAI
-- [Field & Flour bakery logo](cases/openai-logo.md) — OpenAI
+- [Youth streetwear campaign](cases/openai-campaign.md) — [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting)
+- [Transparent product cutout](cases/openai-cutout.md) — [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting)
+- [Field & Flour bakery logo](cases/openai-logo.md) — [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting)
 
 ## Stickers & reactions
 
-- [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble.md) — ailingqu
-- [Bunny thumbs-up](cases/ailingqu-bunny-thumbs-up.md) — ailingqu
-- [Bunny laughing to tears](cases/ailingqu-bunny-laughing.md) — ailingqu
-- [Sleepy bunny](cases/ailingqu-bunny-sleepy.md) — ailingqu
-- [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello.md) — ailingqu
-- [Confused shiba head tilt](cases/ailingqu-shiba-head-tilt.md) — ailingqu
-- [Cat typing furiously](cases/ailingqu-cat-typing-laptop.md) — ailingqu
-- [Frog blowing a heart](cases/ailingqu-frog-heart-bubble.md) — ailingqu
-- [Penguin facepalm](cases/ailingqu-penguin-facepalm.md) — ailingqu
-- [Basketball shot celebration](cases/ailingqu-basketball-shot-sticker.md) — ailingqu
-- [Cat chef tossing fried rice](cases/ailingqu-cat-chef-fried-rice.md) — ailingqu
-- [Black cat punch](cases/ailingqu-black-cat-punch.md) — ailingqu
-- [Office cat: exhausted](cases/ailingqu-office-cat-exhausted.md) — ailingqu
-- [Office cat: clocking out](cases/ailingqu-office-cat-clock-out.md) — ailingqu
-- [Roaring duck](cases/ailingqu-roaring-duck.md) — ailingqu
-- [Chibi trader watching stocks crash](cases/ailingqu-chibi-trader-crash.md) — ailingqu
-- [Chibi trader celebrating a rally](cases/ailingqu-chibi-trader-moon.md) — ailingqu
-- [Cat in sunglasses dancing](cases/ailingqu-sunglasses-cat-dance.md) — ailingqu
-- [Top-hat frog shooing bad vibes](cases/ailingqu-top-hat-frog-shoo.md) — ailingqu
-- [Busy bee clocking in](cases/ailingqu-busy-bee-clock-in.md) — ailingqu
-- [Puppy swaying with hearts](cases/ailingqu-puppy-heart-sway.md) — ailingqu
-- [Goodnight kitty](cases/ailingqu-goodnight-cat.md) — ailingqu
-- [Orange cat pouncing at the camera](cases/ailingqu-orange-cat-pounce-lens.md) — ailingqu
-- [Laughing so hard it cries](cases/ailingqu-laughing-tears-blob.md) — ailingqu
-- [Apprentice spell backfires](cases/ailingqu-wizard-spell-backfire.md) — ailingqu
-- [Cat baker sneezes flour](cases/ailingqu-cat-baker-sneeze.md) — ailingqu
-- [Lobster working overtime](cases/ailingqu-lobster-overtime.md) — ailingqu
-- [Penguin panics after hitting send](cases/ailingqu-penguin-send-panic.md) — ailingqu
-- [Otter in a teal scarf waving](cases/ailingqu-otter-scarf-wave.md) — ailingqu
-- [Office worker: received!](cases/ailingqu-office-worker-received.md) — ailingqu
-- [Cat flying on a broomstick](cases/ailingqu-cat-on-broom.md) — ailingqu
-- [Baby robot wave and hop](cases/ailingqu-baby-robot-hop.md) — ailingqu
-- [Hamster stuffing its cheeks](cases/ailingqu-hamster-cheek-stuff.md) — ailingqu
+- [Jelly bear wobble](cases/ailingqu-jelly-bear-wobble.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Bunny thumbs-up](cases/ailingqu-bunny-thumbs-up.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Bunny laughing to tears](cases/ailingqu-bunny-laughing.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Sleepy bunny](cases/ailingqu-bunny-sleepy.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Cartoon cat waving hello](cases/ailingqu-cat-waving-hello.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Confused shiba head tilt](cases/ailingqu-shiba-head-tilt.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Cat typing furiously](cases/ailingqu-cat-typing-laptop.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Frog blowing a heart](cases/ailingqu-frog-heart-bubble.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Penguin facepalm](cases/ailingqu-penguin-facepalm.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Basketball shot celebration](cases/ailingqu-basketball-shot-sticker.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Cat chef tossing fried rice](cases/ailingqu-cat-chef-fried-rice.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Black cat punch](cases/ailingqu-black-cat-punch.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Office cat: exhausted](cases/ailingqu-office-cat-exhausted.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Office cat: clocking out](cases/ailingqu-office-cat-clock-out.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Roaring duck](cases/ailingqu-roaring-duck.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Chibi trader watching stocks crash](cases/ailingqu-chibi-trader-crash.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Chibi trader celebrating a rally](cases/ailingqu-chibi-trader-moon.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Cat in sunglasses dancing](cases/ailingqu-sunglasses-cat-dance.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Top-hat frog shooing bad vibes](cases/ailingqu-top-hat-frog-shoo.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Busy bee clocking in](cases/ailingqu-busy-bee-clock-in.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Puppy swaying with hearts](cases/ailingqu-puppy-heart-sway.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Goodnight kitty](cases/ailingqu-goodnight-cat.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Orange cat pouncing at the camera](cases/ailingqu-orange-cat-pounce-lens.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Laughing so hard it cries](cases/ailingqu-laughing-tears-blob.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Apprentice spell backfires](cases/ailingqu-wizard-spell-backfire.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Cat baker sneezes flour](cases/ailingqu-cat-baker-sneeze.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Lobster working overtime](cases/ailingqu-lobster-overtime.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Penguin panics after hitting send](cases/ailingqu-penguin-send-panic.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Otter in a teal scarf waving](cases/ailingqu-otter-scarf-wave.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Office worker: received!](cases/ailingqu-office-worker-received.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Cat flying on a broomstick](cases/ailingqu-cat-on-broom.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Baby robot wave and hop](cases/ailingqu-baby-robot-hop.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Hamster stuffing its cheeks](cases/ailingqu-hamster-cheek-stuff.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
 
 ## Flash cuts & branding
 
-- [Flower macro flash cut](cases/ailingqu-flower-macro-flash.md) — ailingqu
-- [Cat-head logo brand reel](cases/ailingqu-cat-brand-reel.md) — ailingqu
-- [Sneaker colorway flash](cases/ailingqu-sneaker-colorway-flash.md) — ailingqu
-- [One tree, four seasons](cases/ailingqu-four-seasons-tree.md) — ailingqu
-- [Magazine collage panels pop in](cases/ailingqu-magazine-panels-pop.md) — ailingqu
-- [Paper airplane desk to notebook](cases/ailingqu-paper-airplane-glide.md) — ailingqu
-- [Neon OPEN sign flicker](cases/ailingqu-neon-open-sign.md) — ailingqu
-- [Light sweep over a product](cases/ailingqu-product-light-sweep.md) — ailingqu
-- [Perfume bottle spinning on water](cases/ailingqu-perfume-water-spin.md) — ailingqu
-- [Two-line event title reveal](cases/ailingqu-event-title-reveal.md) — ailingqu
-- [Chat bubbles popping in](cases/ailingqu-chat-bubbles-pop.md) — ailingqu
-- [City jumps a thousand years](cases/ailingqu-city-future-timelapse.md) — ailingqu
-- [Tiny people building a sandwich](cases/ailingqu-tiny-chefs-sandwich.md) — ailingqu
-- [Castle rising stone by stone](cases/ailingqu-castle-builds-up.md) — ailingqu
-- [Same fox in six materials](cases/ailingqu-material-style-flip.md) — ailingqu
-- [Gift box with a pop-up ghost](cases/ailingqu-gift-box-ghost-pop.md) — ailingqu
-- [Ring of fire spell](cases/ailingqu-fire-ring-spell.md) — ailingqu
-- [Lightning in a jar](cases/ailingqu-lightning-jar.md) — ailingqu
-- [Water spiral orb](cases/ailingqu-water-spiral-orb.md) — ailingqu
-- [Ice crystal bloom](cases/ailingqu-ice-crystal-bloom.md) — ailingqu
-- [Comic halftone action poster](cases/ailingqu-halftone-fox-poster.md) — ailingqu
-- [House cutaway reveal](cases/ailingqu-house-cutaway.md) — ailingqu
-- [Neon star with light trail](cases/ailingqu-neon-star-orbit.md) — ailingqu
+- [Flower macro flash cut](cases/ailingqu-flower-macro-flash.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Cat-head logo brand reel](cases/ailingqu-cat-brand-reel.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Sneaker colorway flash](cases/ailingqu-sneaker-colorway-flash.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [One tree, four seasons](cases/ailingqu-four-seasons-tree.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Magazine collage panels pop in](cases/ailingqu-magazine-panels-pop.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Paper airplane desk to notebook](cases/ailingqu-paper-airplane-glide.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Neon OPEN sign flicker](cases/ailingqu-neon-open-sign.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Light sweep over a product](cases/ailingqu-product-light-sweep.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Perfume bottle spinning on water](cases/ailingqu-perfume-water-spin.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Two-line event title reveal](cases/ailingqu-event-title-reveal.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Chat bubbles popping in](cases/ailingqu-chat-bubbles-pop.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [City jumps a thousand years](cases/ailingqu-city-future-timelapse.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Tiny people building a sandwich](cases/ailingqu-tiny-chefs-sandwich.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Castle rising stone by stone](cases/ailingqu-castle-builds-up.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Same fox in six materials](cases/ailingqu-material-style-flip.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Gift box with a pop-up ghost](cases/ailingqu-gift-box-ghost-pop.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Ring of fire spell](cases/ailingqu-fire-ring-spell.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Lightning in a jar](cases/ailingqu-lightning-jar.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Water spiral orb](cases/ailingqu-water-spiral-orb.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Ice crystal bloom](cases/ailingqu-ice-crystal-bloom.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Comic halftone action poster](cases/ailingqu-halftone-fox-poster.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [House cutaway reveal](cases/ailingqu-house-cutaway.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Neon star with light trail](cases/ailingqu-neon-star-orbit.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
 
 ## Ambient loops
 
-- [Reading by the window, day to night](cases/ailingqu-window-day-to-night.md) — ailingqu
-- [Steaming coffee loop](cases/ailingqu-steaming-coffee.md) — ailingqu
-- [Rainy window and plant](cases/ailingqu-rain-on-window.md) — ailingqu
-- [Goldfish in a bowl](cases/ailingqu-goldfish-bowl.md) — ailingqu
-- [Lighthouse at night](cases/ailingqu-lighthouse-night.md) — ailingqu
-- [Cat sleeping by the fireplace](cases/ailingqu-cat-by-fireplace.md) — ailingqu
-- [Lantern monkey in the snow](cases/ailingqu-lantern-monkey-snow.md) — ailingqu
-- [Sleepy fox on a mossy rock](cases/ailingqu-sleepy-fox-rock.md) — ailingqu
-- [Lo-fi study loop](cases/ailingqu-lofi-study-loop.md) — ailingqu
-- [Café cinemagraph](cases/ailingqu-cafe-cinemagraph.md) — ailingqu
-- [Ink-wash galloping horse](cases/ailingqu-ink-wash-horse.md) — ailingqu
-- [Doodle monster comes alive](cases/ailingqu-doodle-monster.md) — ailingqu
-- [Teapot steam turns into a heart](cases/ailingqu-teapot-steam-heart.md) — ailingqu
-- [Husky howling in a snow globe](cases/ailingqu-husky-snow-globe.md) — ailingqu
-- [City in a snow globe](cases/ailingqu-city-snow-globe.md) — ailingqu
-- [Clay kitten in a ball pit](cases/ailingqu-clay-kitten-ballpit.md) — ailingqu
-- [Pelican riding a bicycle](cases/ailingqu-pelican-bicycle.md) — ailingqu
-- [Windmill on green hills](cases/ailingqu-windmill-hills.md) — ailingqu
-- [Paper boat bobbing on water](cases/ailingqu-paper-boat-ripples.md) — ailingqu
-- [Robot dancing on the street](cases/ailingqu-street-robot-dance.md) — ailingqu
-- [Chopping wood in winter](cases/ailingqu-woodcutter-winter.md) — ailingqu
-- [Petting a shiba in the rain](cases/ailingqu-rain-shiba-pet.md) — ailingqu
-- [Canyon waterfall mist](cases/ailingqu-canyon-waterfall.md) — ailingqu
-- [Glass butterfly with shifting shadows](cases/ailingqu-glass-butterfly.md) — ailingqu
-- [Glowing beaker vortex](cases/ailingqu-beaker-glow-vortex.md) — ailingqu
-- [Eagle flapping its wings](cases/ailingqu-eagle-wing-flap.md) — ailingqu
-- [Paper lantern Jiangnan with koi](cases/ailingqu-lantern-koi-garden.md) — ailingqu
-- [Clay dough baker mascot](cases/ailingqu-clay-baker-mascot.md) — ailingqu
-- [Robot barista pouring coffee](cases/ailingqu-robot-barista.md) — ailingqu
-- [Train wind on the platform](cases/ailingqu-subway-wind-girl.md) — ailingqu
+- [Reading by the window, day to night](cases/ailingqu-window-day-to-night.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Steaming coffee loop](cases/ailingqu-steaming-coffee.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Rainy window and plant](cases/ailingqu-rain-on-window.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Goldfish in a bowl](cases/ailingqu-goldfish-bowl.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Lighthouse at night](cases/ailingqu-lighthouse-night.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Cat sleeping by the fireplace](cases/ailingqu-cat-by-fireplace.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Lantern monkey in the snow](cases/ailingqu-lantern-monkey-snow.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Sleepy fox on a mossy rock](cases/ailingqu-sleepy-fox-rock.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Lo-fi study loop](cases/ailingqu-lofi-study-loop.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Café cinemagraph](cases/ailingqu-cafe-cinemagraph.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Ink-wash galloping horse](cases/ailingqu-ink-wash-horse.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Doodle monster comes alive](cases/ailingqu-doodle-monster.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Teapot steam turns into a heart](cases/ailingqu-teapot-steam-heart.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Husky howling in a snow globe](cases/ailingqu-husky-snow-globe.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [City in a snow globe](cases/ailingqu-city-snow-globe.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Clay kitten in a ball pit](cases/ailingqu-clay-kitten-ballpit.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Pelican riding a bicycle](cases/ailingqu-pelican-bicycle.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Windmill on green hills](cases/ailingqu-windmill-hills.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Paper boat bobbing on water](cases/ailingqu-paper-boat-ripples.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Robot dancing on the street](cases/ailingqu-street-robot-dance.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Chopping wood in winter](cases/ailingqu-woodcutter-winter.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Petting a shiba in the rain](cases/ailingqu-rain-shiba-pet.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Canyon waterfall mist](cases/ailingqu-canyon-waterfall.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Glass butterfly with shifting shadows](cases/ailingqu-glass-butterfly.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Glowing beaker vortex](cases/ailingqu-beaker-glow-vortex.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Eagle flapping its wings](cases/ailingqu-eagle-wing-flap.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Paper lantern Jiangnan with koi](cases/ailingqu-lantern-koi-garden.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Clay dough baker mascot](cases/ailingqu-clay-baker-mascot.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Robot barista pouring coffee](cases/ailingqu-robot-barista.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Train wind on the platform](cases/ailingqu-subway-wind-girl.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
 
 ## Pixel art & UI motion
 
-- [Pixel art campfire](cases/ailingqu-pixel-campfire.md) — ailingqu
-- [Bouncing dots loader](cases/ailingqu-bouncing-dots-loader.md) — ailingqu
-- [Pixel knight run cycle](cases/ailingqu-pixel-knight-run.md) — ailingqu
-- [Like button heart burst](cases/ailingqu-like-heart-burst.md) — ailingqu
-- [Hourglass loading](cases/ailingqu-hourglass-flip.md) — ailingqu
-- [Arcade VS screen](cases/ailingqu-arcade-vs-screen.md) — ailingqu
-- [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss.md) — ailingqu
-- [Love-burst skill animation](cases/ailingqu-love-burst-skill.md) — ailingqu
-- [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk.md) — ailingqu
-- [Pixel hero sword slash](cases/ailingqu-pixel-hero-slash.md) — ailingqu
-- [Handheld-style castle run](cases/ailingqu-pixel-castle-scroller.md) — ailingqu
-- [Squash and stretch bouncing ball](cases/ailingqu-bouncing-ball-squash.md) — ailingqu
-- [AI assistant typing indicator](cases/ailingqu-ai-typing-indicator.md) — ailingqu
-- [16-bit fighter punch combo](cases/ailingqu-arcade-fighter-punch.md) — ailingqu
-- [Bodyweight squat guide](cases/ailingqu-squat-form-guide.md) — ailingqu
-- [8-bit raver alien](cases/ailingqu-pixel-raver-alien.md) — ailingqu
-- [Pixel coffee cup](cases/ailingqu-pixel-coffee-steam.md) — ailingqu
-- [Scroll-down arrow hint](cases/ailingqu-scroll-arrow-hint.md) — ailingqu
-- [Pixel lantern scares ghosts](cases/ailingqu-pixel-lantern-ghosts.md) — ailingqu
-- [Gem merge game ad](cases/ailingqu-gem-merge-ad.md) — ailingqu
-- [Pixel treasure chest](cases/ailingqu-pixel-treasure-chest.md) — ailingqu
-- [Rocket progress bar](cases/ailingqu-rocket-progress-bar.md) — ailingqu
-- [Sun / moon theme toggle](cases/ailingqu-sun-moon-toggle.md) — ailingqu
-- [Earth Online: morning commute](cases/ailingqu-earth-online-commute.md) — ailingqu
-- [Pixel fishing catch](cases/ailingqu-pixel-fishing-catch.md) — ailingqu
-- [Pixel town in the rain](cases/ailingqu-pixel-rain-town.md) — ailingqu
-- [Pixel crops sprouting](cases/ailingqu-pixel-farm-sprout.md) — ailingqu
+- [Pixel art campfire](cases/ailingqu-pixel-campfire.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Bouncing dots loader](cases/ailingqu-bouncing-dots-loader.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Pixel knight run cycle](cases/ailingqu-pixel-knight-run.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Like button heart burst](cases/ailingqu-like-heart-burst.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Hourglass loading](cases/ailingqu-hourglass-flip.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Arcade VS screen](cases/ailingqu-arcade-vs-screen.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [8-bit slime boss battle](cases/ailingqu-pixel-slime-boss.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Love-burst skill animation](cases/ailingqu-love-burst-skill.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Junkyard robot walk cycle](cases/ailingqu-junkyard-robot-walk.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Pixel hero sword slash](cases/ailingqu-pixel-hero-slash.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Handheld-style castle run](cases/ailingqu-pixel-castle-scroller.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Squash and stretch bouncing ball](cases/ailingqu-bouncing-ball-squash.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [AI assistant typing indicator](cases/ailingqu-ai-typing-indicator.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [16-bit fighter punch combo](cases/ailingqu-arcade-fighter-punch.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Bodyweight squat guide](cases/ailingqu-squat-form-guide.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [8-bit raver alien](cases/ailingqu-pixel-raver-alien.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Pixel coffee cup](cases/ailingqu-pixel-coffee-steam.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Scroll-down arrow hint](cases/ailingqu-scroll-arrow-hint.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Pixel lantern scares ghosts](cases/ailingqu-pixel-lantern-ghosts.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Gem merge game ad](cases/ailingqu-gem-merge-ad.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Pixel treasure chest](cases/ailingqu-pixel-treasure-chest.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Rocket progress bar](cases/ailingqu-rocket-progress-bar.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Sun / moon theme toggle](cases/ailingqu-sun-moon-toggle.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Earth Online: morning commute](cases/ailingqu-earth-online-commute.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Pixel fishing catch](cases/ailingqu-pixel-fishing-catch.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Pixel town in the rain](cases/ailingqu-pixel-rain-town.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
+- [Pixel crops sprouting](cases/ailingqu-pixel-farm-sprout.md) — [ailingqu](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md)
 
 ## Scope and attribution
 
