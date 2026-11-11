@@ -17,3 +17,5 @@ A neon sign shaped like a five-pointed star, outlined in orange-pink LED dots, g
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/neon-star-orbit.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/b563f3fd20af87984d18b263b15c8edf1ffeaecf073178d10588d7f0c9771d65.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

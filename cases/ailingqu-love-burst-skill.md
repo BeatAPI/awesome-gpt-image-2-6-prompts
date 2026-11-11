@@ -17,3 +17,5 @@ A chibi magical girl with a pink bob raises her wand and casts a "love burst" sk
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/love-burst-skill.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/78a05fddbe3971f080c7fd285ff4cbb199ebd5cdab172eff4264cc59393cd2a9.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

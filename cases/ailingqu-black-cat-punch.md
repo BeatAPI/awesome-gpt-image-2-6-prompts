@@ -17,3 +17,5 @@ A round black cat with big yellow eyes throwing a quick one-two punch toward the
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/black-cat-punch.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/95f22e377831a4c2f60fbf6a9f5bc13c16f1360d17346b3430cc31743e52e613.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

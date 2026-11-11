@@ -19,3 +19,5 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/steaming-coffee.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/02df72a7a26771c9a4302a135c0e75fed5b0beccd45f90c5d26a1f9b50d76d22.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

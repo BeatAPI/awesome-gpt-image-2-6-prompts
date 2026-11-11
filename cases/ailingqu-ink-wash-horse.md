@@ -17,3 +17,5 @@ A racehorse with a jockey galloping to the right in a loose Chinese ink-wash pai
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/ink-wash-horse.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/dbbdd8fa990251f3f309336f3861ec878599661768695be498407e201c3168f7.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

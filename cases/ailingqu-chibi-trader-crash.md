@@ -17,3 +17,5 @@ A chibi office worker in a white shirt and loose tie staring at a laptop where a
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/chibi-trader-crash.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/d716167fc6aeaf108750739e4ccb857d8d7521817c7bf41c634120a393e68e4f.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

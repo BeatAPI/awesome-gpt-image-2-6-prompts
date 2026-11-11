@@ -17,3 +17,5 @@ A pelican riding a red bicycle along a seaside promenade, legs pedaling and its 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/pelican-bicycle.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/01c41275278d723c0af71c28dc6aad614a03515d6c25221b83aec515423ee6fe.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

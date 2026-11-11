@@ -17,3 +17,5 @@ A phone chat screen where three message bubbles pop in one by one: grey "Are you
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/chat-bubbles-pop.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/5619945c062d3a104d7ca57664198eca769c451b21f5fc2a0596aad25a8748c4.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

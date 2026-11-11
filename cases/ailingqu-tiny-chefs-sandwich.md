@@ -17,3 +17,5 @@ A team of miniature people in aprons on a full-size kitchen table hauling a lett
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/tiny-chefs-sandwich.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/03d1ca283a1ecfd82b7d939b740c4f26e81ec17525110dd92aa9c543eacdf738.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

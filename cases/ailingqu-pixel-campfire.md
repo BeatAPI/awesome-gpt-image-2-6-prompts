@@ -19,3 +19,5 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/pixel-campfire.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/8eae3569fc8cd247081e00428549dd30a525c128eb201d9b9424e066caff5640.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

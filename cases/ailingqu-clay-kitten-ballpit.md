@@ -17,3 +17,5 @@ A clay kitten popping its head out of a ball pit full of colorful plastic balls,
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/clay-kitten-ballpit.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/feffbd087aef2f401ed6ad8bc3aecbecf079080db835140a8e836889172d7c1d.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

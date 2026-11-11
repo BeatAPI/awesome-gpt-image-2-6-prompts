@@ -17,3 +17,5 @@ This is the complete prompt text published by the creator; the case was generate
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/pixel-farm-sprout.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/1d1a30d0d2195da26a09588ca476caf001d4ca56c1fca272a50c8e18850f15d4.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

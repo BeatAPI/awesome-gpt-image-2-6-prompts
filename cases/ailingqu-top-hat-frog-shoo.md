@@ -17,3 +17,5 @@ A small green frog in a tall black top hat and a monocle waving a tiny cane in c
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/top-hat-frog-shoo.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/31ef64c832659a06f81b8e4fbbcc313f3761544f83d427b9e1b954a01d74eb13.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

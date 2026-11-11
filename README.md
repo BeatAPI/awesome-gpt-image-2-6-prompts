@@ -1,14 +1,35 @@
-<p align="center"><img src="./assets/readme-hero.png" alt="Illustrative cover for the GPT Image 2.6 prompt collection" width="100%" /></p>
+<p align="center"><a href="https://beatapi.io"><img src="./assets/readme-hero.png" alt="Illustrative cover for the GPT Image 2.6 prompt collection" width="100%" /></a></p>
 
 # Awesome GPT Image 2.6 Prompts
 
 GPT Image 2.6 images, GIFs and prompts, curated by [BeatAPI](https://beatapi.io).
 
-**[Browse the prompt gallery](https://beatapi.io/gpt-image-2-6-prompts)** · **[GPT Image 2.6 API](https://beatapi.io/gpt-image-2-6-api)** · **[中文说明](README.zh-CN.md)** · **[Contribute a prompt](CONTRIBUTING.md)**
+**[BeatAPI home](https://beatapi.io)** · **[Browse the prompt gallery](https://beatapi.io/gpt-image-2-6-prompts)** · **[GPT Image 2.6 API](https://beatapi.io/gpt-image-2-6-api)** · **[中文说明](README.zh-CN.md)** · **[Contribute a prompt](CONTRIBUTING.md)**
 
-**116 examples with prompts.**
+**118 examples · 116 complete prompts · 2 creator showcases.**
 
 **Browse by use case:** [Official examples](#official-examples) · [Stickers & reactions](#stickers--reactions) · [Flash cuts & branding](#flash-cuts--branding) · [Ambient loops](#ambient-loops) · [Pixel art & UI motion](#pixel-art--ui-motion)
+
+## Latest examples
+
+### Indie club poster
+
+<a href="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/0b61b3383f04bf42034fb9fa5c409062b23761336f6c2e111eb601f5d6a556e1.webp"><img src="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/0b61b3383f04bf42034fb9fa5c409062b23761336f6c2e111eb601f5d6a556e1.webp" alt="Indie club poster" width="700" /></a>
+
+[@PrometheanAIX](https://x.com/PrometheanAIX/status/2120173487180366136)
+
+### Landscape headline designs
+
+<a href="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/c4e5535a6c88000a9bea70b6b5b9a179d4ca6fe6330f1effd3712f20ce49c5ab.webp"><img src="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/c4e5535a6c88000a9bea70b6b5b9a179d4ca6fe6330f1effd3712f20ce49c5ab.webp" alt="Landscape headline designs" width="340" /></a>
+
+<a href="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/4522e9492ff5f7ea8cd6dfc6afc4e39000da112c8e07207d37a35c8ca3a21bff.webp"><img src="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/4522e9492ff5f7ea8cd6dfc6afc4e39000da112c8e07207d37a35c8ca3a21bff.webp" alt="Landscape headline designs" width="340" /></a>
+
+<a href="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/f790329a0a2e0073b705f550f865f8d7ab36f9609df10e548ac46a7dc840c390.webp"><img src="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/f790329a0a2e0073b705f550f865f8d7ab36f9609df10e548ac46a7dc840c390.webp" alt="Landscape headline designs" width="340" /></a>
+
+<a href="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/e3adb2adaab1bdc8bdcb58ff673a9235639f95c1b53967ec71469256766c4a4f.webp"><img src="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/e3adb2adaab1bdc8bdcb58ff673a9235639f95c1b53967ec71469256766c4a4f.webp" alt="Landscape headline designs" width="340" /></a>
+
+[@Leviwoyun](https://x.com/Leviwoyun/status/2120469968060043639)
+
 
 ## Official examples
 
@@ -1840,3 +1861,13 @@ Cover artwork is illustrative and is not presented as a model-generated case.
 ## License and contributions
 
 Original BeatAPI-authored repository documentation is available under [MIT](LICENSE). Third-party prompts and media retain their respective licenses or permissions; see each case for the applicable source and attribution. See [CONTRIBUTING.md](CONTRIBUTING.md) for the evidence required for new cases.
+
+## More galleries
+
+- [Fable 5.2](https://beatapi.io/fable-5-2-videos) · [GitHub](https://github.com/BeatAPI/awesome-fable-5-2-videos)
+- [Seedream 5.5](https://beatapi.io/seedream-5-5-prompts) · [GitHub](https://github.com/BeatAPI/awesome-seedream-5-5-prompts)
+- [GPT Image 2.6](https://beatapi.io/gpt-image-2-6-prompts) · [GitHub](https://github.com/BeatAPI/awesome-gpt-image-2-6-prompts)
+- [MiniMax H3 Image](https://beatapi.io/minimax-h3-image-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-image-prompts)
+- [MiniMax H3 Video](https://beatapi.io/minimax-h3-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
+
+[BeatAPI home](https://beatapi.io)

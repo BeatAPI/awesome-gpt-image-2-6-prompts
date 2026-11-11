@@ -17,3 +17,5 @@ A bold comic-style action poster: a masked fox thief in a long red coat leaps ac
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/halftone-fox-poster.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/93da811e781b83b72e5f9274b4e1319a5a5e15c1e24b0a9c56f199e13b7ae247.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

@@ -17,3 +17,5 @@ A red cartoon lobster wearing round glasses typing furiously on a keyboard with 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/lobster-overtime.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/92aca113eb9cccf70dfa2408b9a5cb7e0050bfa5a6eb00dd3a9a4c942282346f.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

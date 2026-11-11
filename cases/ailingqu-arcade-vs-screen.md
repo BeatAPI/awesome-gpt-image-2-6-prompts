@@ -17,3 +17,5 @@ A retro arcade versus screen: on the left a chubby panda wrestler in a yellow ca
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/arcade-vs-screen.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/e848fd4ace9df9e63367d50f8dd42c4a4aa031eeee282a1af5eb13fe94d9f35b.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

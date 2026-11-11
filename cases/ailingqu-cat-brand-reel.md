@@ -19,3 +19,5 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/cat-brand-reel.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/617a74f1a38956690720a10ccd74eaaebadda4edd52d443fae44c95accfcf9ec.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

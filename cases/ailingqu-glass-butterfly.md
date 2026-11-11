@@ -17,3 +17,5 @@ A butterfly made of clear glass perched on a white table, slowly opening and clo
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/glass-butterfly.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/7ae1f8af9ad5acd51a85a7efa846e6bd57464413071f3480389099965da23aac.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

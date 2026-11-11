@@ -17,3 +17,5 @@ A corked glass jar on a wooden table with a tiny bolt of blue-white lightning cr
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/lightning-jar.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/062af382e1b34553b6825fad7b584ae75a109d26e92cbe50793011aaee03c5a5.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

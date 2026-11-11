@@ -17,3 +17,5 @@ Pixel art of a small town street at night in the rain, raindrops falling, warm w
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/pixel-rain-town.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/4ff951b187810893f512126daed079e22279b90f87139ecbf1e7b327a8cb1bb0.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

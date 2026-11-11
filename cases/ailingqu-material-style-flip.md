@@ -17,3 +17,5 @@ The same sitting fox in the same pose, each frame rendered in a different materi
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/material-style-flip.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/3dc8b9110c5b307cc685d8d2a186dbb942f4374d36bde1280edbfda0c19a5034.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

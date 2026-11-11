@@ -17,3 +17,5 @@ A crude crayon doodle of a little purple blob monster with two eyes on wobbly st
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/doodle-monster.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/46c9494ccaef1dcc4d456932f34b318b153f2fc246846c30d5c7eb69ed015dbc.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

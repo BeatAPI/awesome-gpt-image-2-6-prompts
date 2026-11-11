@@ -17,3 +17,5 @@ A chibi office worker in a white shirt and loose tie jumping up from his chair a
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/chibi-trader-moon.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/1466f5adb161e3cdec21118290fb3e5144c3e6d280edf65e428a2c45af1d566f.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

@@ -17,3 +17,5 @@ A white cat chef in a tall chef hat tossing fried rice in a wok, the rice flies 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/cat-chef-fried-rice.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/3c54f87da09d213e168df539908de750f844287bb6c96c0d2fd09d061eea46b4.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

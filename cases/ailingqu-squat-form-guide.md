@@ -17,3 +17,5 @@ A clean flat infographic of a faceless fitness figure in a teal tank top doing a
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/squat-form-guide.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/ef206d97db2c2d449138231b2eebedce4caf96fb8aff9c13d65382639cac0391.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

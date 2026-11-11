@@ -17,3 +17,5 @@ A pale blue ice crystal growing from the center of the frame, frost branches spr
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/ice-crystal-bloom.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/35bdc4458ecc119d1752abf5c42aad8b8c7c2e17046ddbf5e71199acbe839923.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

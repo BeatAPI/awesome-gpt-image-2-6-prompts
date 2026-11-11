@@ -19,3 +19,5 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/flower-macro-flash.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/f8f6416154b6d062593be9f5f9be39664a221b4f9cb41a3c7ce584711158e6d1.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

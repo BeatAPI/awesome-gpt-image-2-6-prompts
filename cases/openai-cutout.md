@@ -23,3 +23,5 @@ Do not restyle the product; remove the background and preserve clean alpha trans
 ## Attribution
 
 The media belongs to its respective rights holder. Permission to use the cited images is recorded in the project’s review ledger; no general license for third-party media is implied.
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

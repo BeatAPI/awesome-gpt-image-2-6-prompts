@@ -19,3 +19,5 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/rain-on-window.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/c48e9b8a72d9a2c83d9040629c0111bd911e59914532b8b674ca07952704563d.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

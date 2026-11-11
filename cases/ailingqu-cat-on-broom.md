@@ -17,3 +17,5 @@ A black cat with a tiny red scarf riding a wooden broomstick across a night sky,
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/cat-on-broom.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/9db4eb142708461d9d39c3e5f51fdb861446d25cb807166775fa1c9b6fdb28bf.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

@@ -19,3 +19,5 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/shiba-head-tilt.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/3d11ba283d167f716825da3f6c118ccff1f0678ec1e1d784b3f25f49759abf45.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

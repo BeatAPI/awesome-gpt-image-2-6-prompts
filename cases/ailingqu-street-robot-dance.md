@@ -17,3 +17,5 @@ A boxy orange robot doing a robotic pop-and-lock dance on a graffiti-covered cit
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/street-robot-dance.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/f40f6c451c9104904a62140396cab15f44a447a8dc94f6c5b46b67fed99d3d4f.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

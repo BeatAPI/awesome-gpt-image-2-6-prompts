@@ -19,3 +19,5 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/four-seasons-tree.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/c3a3da5603f7a84b006130511bc25a7a384b1d550719c0d5c91a90b63d908013.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

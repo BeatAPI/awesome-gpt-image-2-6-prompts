@@ -17,3 +17,5 @@ A rusty little scrap-metal robot with one antenna and a mismatched arm walking t
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/junkyard-robot-walk.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/c7e8ca98b6a7e71cdef90331f63ae0384619940acf3436b463d2a3101794b8ca.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

@@ -17,3 +17,5 @@ A rounded toggle switch sliding from a sunny yellow side with a sun icon to a da
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/sun-moon-toggle.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/60881479c99866388c53aa28621b25c1a35fcef47f86557ed42a824d613643c6.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

@@ -17,3 +17,5 @@ A glossy red cartoon gift box with a gold ribbon: the lid pops open and a tiny r
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/gift-box-ghost-pop.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/89a109ccc0451b9a897a615f820ff18a14670567c607b722a89c735ef40ba81a.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

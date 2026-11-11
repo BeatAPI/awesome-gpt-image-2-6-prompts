@@ -17,3 +17,5 @@ A frosted glass skincare bottle standing still on a beige stone plinth while a s
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/product-light-sweep.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/7cc0979cfa48207f935241e5d4fe365b8e6710bef668ffe719037298b6802dce.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

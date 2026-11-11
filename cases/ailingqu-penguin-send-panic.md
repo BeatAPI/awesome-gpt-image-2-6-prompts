@@ -17,3 +17,5 @@ A small cartoon penguin slapping a big round red button labeled "SEND", then fre
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/penguin-send-panic.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/b94f3f0c5f745f99b6cde158ff350445c7a03448112627093470683fadeeae3b.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

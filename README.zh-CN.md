@@ -1,14 +1,35 @@
-<p align="center"><img src="./assets/readme-hero.png" alt="GPT Image 2.6 提示词精选" width="100%" /></p>
+<p align="center"><a href="https://beatapi.io/zh"><img src="./assets/readme-hero.png" alt="GPT Image 2.6 提示词精选" width="100%" /></a></p>
 
 # GPT Image 2.6 提示词精选
 
-由 [BeatAPI](https://beatapi.io) 整理的真实提示词与对应素材，保留原作者、来源和许可。
+由 [BeatAPI](https://beatapi.io/zh) 整理的真实提示词与对应素材，保留原作者、来源和许可。
 
-**[浏览在线画廊](https://beatapi.io/zh/gpt-image-2-6-prompts)** · **[GPT Image 2.6 API](https://beatapi.io/zh/gpt-image-2-6-api)** · [English](README.md) · [参与贡献](CONTRIBUTING.md)
+**[BeatAPI 首页](https://beatapi.io/zh)** · **[浏览在线画廊](https://beatapi.io/zh/gpt-image-2-6-prompts)** · **[GPT Image 2.6 API](https://beatapi.io/zh/gpt-image-2-6-api)** · [English](README.md) · [参与贡献](CONTRIBUTING.md)
 
-**116 条图片与动图案例，附提示词。**
+**118 组案例 · 116 条完整提示词 · 2 组作者作品展示。**
 
 **按用途浏览:** [品牌与产品](#品牌与产品) · [产品编辑](#产品编辑) · [标志设计](#标志设计) · [贴纸与表情](#贴纸与表情) · [快闪与品牌](#快闪与品牌) · [氛围循环](#氛围循环) · [像素艺术与界面动效](#像素艺术与界面动效)
+
+## 最新案例
+
+### 独立音乐俱乐部海报
+
+<a href="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/0b61b3383f04bf42034fb9fa5c409062b23761336f6c2e111eb601f5d6a556e1.webp"><img src="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/0b61b3383f04bf42034fb9fa5c409062b23761336f6c2e111eb601f5d6a556e1.webp" alt="独立音乐俱乐部海报" width="700" /></a>
+
+[@PrometheanAIX](https://x.com/PrometheanAIX/status/2120173487180366136)
+
+### 风景大字标题设计
+
+<a href="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/c4e5535a6c88000a9bea70b6b5b9a179d4ca6fe6330f1effd3712f20ce49c5ab.webp"><img src="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/c4e5535a6c88000a9bea70b6b5b9a179d4ca6fe6330f1effd3712f20ce49c5ab.webp" alt="风景大字标题设计" width="340" /></a>
+
+<a href="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/4522e9492ff5f7ea8cd6dfc6afc4e39000da112c8e07207d37a35c8ca3a21bff.webp"><img src="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/4522e9492ff5f7ea8cd6dfc6afc4e39000da112c8e07207d37a35c8ca3a21bff.webp" alt="风景大字标题设计" width="340" /></a>
+
+<a href="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/f790329a0a2e0073b705f550f865f8d7ab36f9609df10e548ac46a7dc840c390.webp"><img src="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/f790329a0a2e0073b705f550f865f8d7ab36f9609df10e548ac46a7dc840c390.webp" alt="风景大字标题设计" width="340" /></a>
+
+<a href="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/e3adb2adaab1bdc8bdcb58ff673a9235639f95c1b53967ec71469256766c4a4f.webp"><img src="https://media.beatapi.io/prompt-gallery/gpt-image-2-6/e3adb2adaab1bdc8bdcb58ff673a9235639f95c1b53967ec71469256766c4a4f.webp" alt="风景大字标题设计" width="340" /></a>
+
+[@Leviwoyun](https://x.com/Leviwoyun/status/2120469968060043639)
+
 
 ## 浏览案例
 
@@ -1838,3 +1859,13 @@ Pixel art of a small town street at night in the rain, raindrops falling, warm w
 ## 许可说明
 
 每个案例页面列出作者、来源和适用许可。ailingqu 案例的提示词与 GIF 按 CC BY 4.0 署名，原 GIF 未修改；OpenAI 示例的图片使用权与提示词许可分别记录。BeatAPI 原创文档采用 [MIT 许可](LICENSE)。
+
+## 更多案例库
+
+- [Fable 5.2](https://beatapi.io/zh/fable-5-2-videos) · [GitHub](https://github.com/BeatAPI/awesome-fable-5-2-videos)
+- [Seedream 5.5](https://beatapi.io/zh/seedream-5-5-prompts) · [GitHub](https://github.com/BeatAPI/awesome-seedream-5-5-prompts)
+- [GPT Image 2.6](https://beatapi.io/zh/gpt-image-2-6-prompts) · [GitHub](https://github.com/BeatAPI/awesome-gpt-image-2-6-prompts)
+- [MiniMax H3 Image](https://beatapi.io/zh/minimax-h3-image-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-image-prompts)
+- [MiniMax H3 Video](https://beatapi.io/zh/minimax-h3-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
+
+[BeatAPI 首页](https://beatapi.io/zh)

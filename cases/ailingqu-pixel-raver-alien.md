@@ -17,3 +17,5 @@ This is the complete prompt text published by the creator; the case was generate
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/pixel-raver-alien.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/56a4d3a94035830ac2910ba4c798f854d6649d6ed1d047771970818ce6642178.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

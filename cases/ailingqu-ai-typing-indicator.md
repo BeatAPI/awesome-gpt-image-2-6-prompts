@@ -17,3 +17,5 @@ A chat interface where a small rounded robot avatar sits beside a grey bubble wi
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/ai-typing-indicator.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/443ceada3d9e7ae594c6de457443bba7b85339b60ac294eb804036aa5b4a1f91.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

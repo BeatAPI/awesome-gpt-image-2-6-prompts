@@ -17,3 +17,5 @@ A small round yellow duck suddenly opening its beak wide and roaring like a lion
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/roaring-duck.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/1a34817ec28d1ffedc78bc96d707ee7ddaba4af367ed31e3583685fa0d2b3436.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

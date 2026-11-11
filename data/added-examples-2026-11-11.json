@@ -1,0 +1,117 @@
+[
+  {
+    "id": "x-2120173487180366136",
+    "slug": "x-2120173487180366136",
+    "model": "gpt-image-2-6",
+    "title": "Indie club poster",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "独立音乐俱乐部海报",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "インディークラブのポスター",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/PrometheanAIX/status/2120173487180366136",
+      "author": "@PrometheanAIX",
+      "modelEvidenceUrl": "https://x.com/PrometheanAIX/status/2120173487180366136"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/gpt-image-2-6/0b61b3383f04bf42034fb9fa5c409062b23761336f6c2e111eb601f5d6a556e1.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HWxeEpNWwAA4nZ-.jpg?name=large",
+      "sha256": "0b61b3383f04bf42034fb9fa5c409062b23761336f6c2e111eb601f5d6a556e1",
+      "width": 1024,
+      "height": 1360,
+      "kind": "image",
+      "alt": "Indie club poster"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post and attached media checked through BeatAPI Social Data on 2026-11-11.",
+      "evidenceUrl": "https://x.com/PrometheanAIX/status/2120173487180366136",
+      "note": "Third-party media and prompts remain subject to the original creator’s rights."
+    },
+    "models": [
+      "GPT Image 2.6"
+    ],
+    "comparison": false,
+    "preview": true
+  },
+  {
+    "id": "x-2120469968060043639",
+    "slug": "x-2120469968060043639",
+    "model": "gpt-image-2-6",
+    "title": "Landscape headline designs",
+    "category": "Art & illustration",
+    "translations": {
+      "zh": {
+        "title": "风景大字标题设计",
+        "category": "艺术与插画"
+      },
+      "ja": {
+        "title": "風景と大きな見出しのデザイン",
+        "category": "アートとイラスト"
+      }
+    },
+    "source": {
+      "url": "https://x.com/Leviwoyun/status/2120469968060043639",
+      "author": "@Leviwoyun",
+      "modelEvidenceUrl": "https://x.com/Leviwoyun/status/2120469968060043639"
+    },
+    "output": {
+      "url": "https://media.beatapi.io/prompt-gallery/gpt-image-2-6/c4e5535a6c88000a9bea70b6b5b9a179d4ca6fe6330f1effd3712f20ce49c5ab.webp",
+      "sourceUrl": "https://pbs.twimg.com/media/HW1rljna4AAnSfB.jpg?name=large",
+      "sha256": "c4e5535a6c88000a9bea70b6b5b9a179d4ca6fe6330f1effd3712f20ce49c5ab",
+      "width": 1902,
+      "height": 2200,
+      "kind": "image",
+      "alt": "Landscape headline designs"
+    },
+    "references": [],
+    "rights": {
+      "status": "source-published",
+      "evidence": "Original creator post and attached media checked through BeatAPI Social Data on 2026-11-11.",
+      "evidenceUrl": "https://x.com/Leviwoyun/status/2120469968060043639",
+      "note": "Third-party media and prompts remain subject to the original creator’s rights."
+    },
+    "additionalOutputs": [
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/gpt-image-2-6/4522e9492ff5f7ea8cd6dfc6afc4e39000da112c8e07207d37a35c8ca3a21bff.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW1rnLYaQAAF7xH.jpg?name=large",
+        "sha256": "4522e9492ff5f7ea8cd6dfc6afc4e39000da112c8e07207d37a35c8ca3a21bff",
+        "width": 1902,
+        "height": 2200,
+        "kind": "image",
+        "alt": "Landscape headline designs"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/gpt-image-2-6/f790329a0a2e0073b705f550f865f8d7ab36f9609df10e548ac46a7dc840c390.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW1rpydaMAA3whD.jpg?name=large",
+        "sha256": "f790329a0a2e0073b705f550f865f8d7ab36f9609df10e548ac46a7dc840c390",
+        "width": 1680,
+        "height": 2048,
+        "kind": "image",
+        "alt": "Landscape headline designs"
+      },
+      {
+        "url": "https://media.beatapi.io/prompt-gallery/gpt-image-2-6/e3adb2adaab1bdc8bdcb58ff673a9235639f95c1b53967ec71469256766c4a4f.webp",
+        "sourceUrl": "https://pbs.twimg.com/media/HW1rrDoawAAA5jw.jpg?name=large",
+        "sha256": "e3adb2adaab1bdc8bdcb58ff673a9235639f95c1b53967ec71469256766c4a4f",
+        "width": 1680,
+        "height": 2048,
+        "kind": "image",
+        "alt": "Landscape headline designs"
+      }
+    ],
+    "models": [
+      "GPT Image 2.6"
+    ],
+    "comparison": false,
+    "preview": true
+  }
+]

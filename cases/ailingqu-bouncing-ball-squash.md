@@ -17,3 +17,5 @@ A red rubber ball bouncing on a flat floor with classic squash and stretch, a so
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/bouncing-ball-squash.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/d6651f87ded954e6a073d55305136c6e09ce17440c06639e1be4700df2620ac5.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

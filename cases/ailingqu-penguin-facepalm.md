@@ -19,3 +19,5 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/penguin-facepalm.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/ab04ebd875a72825da49246c2d870e3bba93354e520032f846b57dde5832806d.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

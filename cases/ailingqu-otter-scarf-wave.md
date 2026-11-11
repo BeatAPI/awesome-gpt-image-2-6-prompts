@@ -17,3 +17,5 @@ A small brown sea otter with a cream muzzle and a teal knitted scarf turning tow
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/otter-scarf-wave.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/4329897bc22dd04920497ef8eba5e0f31066a071c839f71b749588b511e6880b.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

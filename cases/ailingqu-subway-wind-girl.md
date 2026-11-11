@@ -17,3 +17,5 @@ A girl with long dark hair and a yellow raincoat standing on a subway platform a
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/subway-wind-girl.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/db534ec0287c0481b0920244573cbc9a54e39915e4470b0f07499877c40c174e.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

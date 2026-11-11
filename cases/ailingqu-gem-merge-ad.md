@@ -17,3 +17,5 @@ A mobile puzzle game ad shot: two identical glowing blue gems slide together on 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/gem-merge-ad.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/2b18fe94e61e470665737656f9495a7fffa3d3961079af5b8b5bdc0d3eb4d2fb.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

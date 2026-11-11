@@ -17,3 +17,5 @@ A girl with a clear umbrella crouching on a wet city street at night to pet a sh
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/rain-shiba-pet.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/a0aac86b3d4f308d89bb40fd12bb8ef9a31a492a67c288aa79f44c69d98f03ec.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

@@ -17,3 +17,5 @@ An 8-bit boss battle: a giant green slime boss with a tiny crown bounces and squ
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/pixel-slime-boss.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/168ee5159a70213af7a8ac83b46f991ef29b400e0a5f211d829e6c8176e5576b.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

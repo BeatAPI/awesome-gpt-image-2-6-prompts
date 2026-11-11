@@ -17,3 +17,5 @@ A glass lab beaker on a dark bench with a swirling vortex of glowing teal liquid
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/beaker-glow-vortex.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/588b20518eb80e1dcb3f9588eca8ab6d69d399f7ca28acbdfc3fac6e3f9b237c.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

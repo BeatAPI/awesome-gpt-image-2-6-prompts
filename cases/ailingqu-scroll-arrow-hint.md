@@ -17,3 +17,5 @@ A minimalist rounded chevron arrow pointing down, bouncing gently up and down wi
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/scroll-arrow-hint.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/9d90b3c1520272a02020ea7b37966c1ffb180670a5c6c42b1b3664961479b2eb.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

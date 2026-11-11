@@ -19,3 +19,5 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/frog-heart-bubble.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/99cc4dfd92cc5bc575b271c89cdef9c4d8f5aa567ce436a4a5879bc1c24fd6b8.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

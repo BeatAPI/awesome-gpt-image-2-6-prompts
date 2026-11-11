@@ -17,3 +17,5 @@ A bold two-line title "SUMMER" and "MARKET 2026" sliding in from the left one li
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/event-title-reveal.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/a4bb4ec7e8c522360f184f1a7079a7a909de39326976809d2f93babe4fbd41b1.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

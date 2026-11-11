@@ -17,3 +17,5 @@ A fluffy cream-colored puppy sitting and swaying its head left and right with it
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/puppy-heart-sway.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/cab4c2655b0cfee04a372d1bd0ccea842c7b633a94adc25067cee28e08be5118.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

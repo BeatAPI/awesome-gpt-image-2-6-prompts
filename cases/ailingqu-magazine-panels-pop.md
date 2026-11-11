@@ -17,3 +17,5 @@ A fashion-magazine collage layout where photo panels pop in one by one — a flo
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/magazine-panels-pop.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/8ef974dbae533856e10d2900fcab5989221ddeb4e84c1a3d5ae9c2346246d163.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

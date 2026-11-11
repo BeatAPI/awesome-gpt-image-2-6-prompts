@@ -17,3 +17,5 @@ This is the complete prompt text published by the creator; the case was generate
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/pixel-treasure-chest.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/d4e5e07d252843db67aedeb325d05afeb94b8bd5ff3a3d10343185920ea26b39.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

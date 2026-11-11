@@ -17,3 +17,5 @@ A pixel art hero with spiky red hair swinging a sword in a wide arc, leaving a b
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/pixel-hero-slash.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/7212ec83451da2898ac81bc3a56a024542e5273ea4f6926b0aa8b89735da1efa.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

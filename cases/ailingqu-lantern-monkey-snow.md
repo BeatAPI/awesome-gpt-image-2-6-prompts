@@ -17,3 +17,5 @@ A small monkey in an olive-green hooded coat standing in a snowy pine forest at 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/lantern-monkey-snow.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/9dc9f2a2af1d555ac470e6989e88d4ad9ed1e214579a0d84f3542b5f5049ff4d.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

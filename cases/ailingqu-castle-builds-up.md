@@ -17,3 +17,5 @@ A medieval stone castle on a green hill building itself up from the foundation: 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/castle-builds-up.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/dc55cfac015e20796a482cd2727f5917d0ec27c8bd9a6b24eba0c318053c35e1.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

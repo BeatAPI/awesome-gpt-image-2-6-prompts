@@ -19,3 +19,5 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/cat-waving-hello.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/81e343e2e20cf06e2b099c0511c735edd3e691f0b0b73d1c363308475483934c.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

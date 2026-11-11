@@ -17,3 +17,5 @@ A pixel-art coffee cup on a saucer with three wisps of steam rising and curling 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/pixel-coffee-steam.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/e4d8cb14ed6467e078978fd3e86580001ea83278917ff1e514c14028f4db320c.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

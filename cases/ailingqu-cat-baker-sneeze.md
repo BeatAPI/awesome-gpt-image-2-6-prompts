@@ -17,3 +17,5 @@ An anthropomorphic orange cat in an apron kneading dough on a wooden counter, th
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/cat-baker-sneeze.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/f06cd26e4264ed34ff4ade247d87611e6bd399ffb9702d6a12130fba898e0284.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

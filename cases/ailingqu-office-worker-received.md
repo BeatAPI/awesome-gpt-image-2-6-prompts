@@ -17,3 +17,5 @@ A chibi office worker with a tidy bob and a lanyard snapping to attention and gi
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/office-worker-received.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/56456a97758f5e2cb6d12281e2407226f59e1e96235801de04515023aad221e1.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

@@ -17,3 +17,5 @@ An old man in a thick wool coat raising an axe and splitting a log on a stump in
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/woodcutter-winter.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/109a266e990c71e350ceafd34062b39faa8a663d6810cdb84a5fa3214c139550.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

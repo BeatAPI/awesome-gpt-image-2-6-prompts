@@ -19,3 +19,5 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/pixel-knight-run.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/c9f4601f66d9333262e858867cec129a63bd46f7bf36cd0fc9965a53cbfec337.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

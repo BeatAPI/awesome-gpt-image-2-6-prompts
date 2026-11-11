@@ -17,3 +17,5 @@ This is the complete prompt text published by the creator; the case was generate
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/pixel-fishing-catch.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/a7f78eab3f1168f68c5dcbe1e7e0cce96d2de5fe4818dec9158f9c2095dbee86.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

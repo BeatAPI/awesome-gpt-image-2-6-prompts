@@ -17,3 +17,5 @@ A snow globe holding a miniature city of red-brick apartment blocks and a little
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/city-snow-globe.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/24aa1c47c218370cc7f07707c5b263127dda4e8a6688325f685ef1bcb2903f4f.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

@@ -17,3 +17,5 @@ A layered paper-cut lantern scene of a southern Chinese water town with a stone 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/895baa4ccd7a12dbf0a6eafa2b08cd53964d25ac/gifs/lantern-koi-garden.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/99740ec73aff14db3d34bfa3eb62444dda9b9ee3d840a4403238b50a11084b6e.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

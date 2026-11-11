@@ -17,3 +17,5 @@ A chubby orange tabby cat office worker with a tiny blue tie and an employee bad
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/office-cat-exhausted.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/99474c8f5794c2886b142307148a68062bc2e7b962a29283b09395503cf0c1ad.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)

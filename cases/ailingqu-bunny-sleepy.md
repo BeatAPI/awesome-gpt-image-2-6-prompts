@@ -19,3 +19,5 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 ```
 
 [Original GIF](https://raw.githubusercontent.com/ailingqu/awesome-ai-gif-prompts/2672b8fe04e75275de70a8d5d2992da6271ce8f5/gifs/bunny-sleepy.gif) · [Permanent media](https://cdn.beatapi.io/prompt-gallery/gpt-image-2-6/e34c320aa35f691980e8ff141742c22d37c56b1abe84f1116033aa8e2ef909d3.gif)
+
+[Website gallery](https://beatapi.io/gpt-image-2-6-prompts) · [BeatAPI home](https://beatapi.io)
